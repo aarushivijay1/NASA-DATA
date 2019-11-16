@@ -7,7 +7,7 @@ This is a user-based application that generates NASA Data of asteroids using pip
 
 - Download the Github repository as a zip file
 
-- Unzip the file and launch both the Python files in Virtual Studio code
+- Unzip the file and launch both the Python files in Virtual Studio code. Get it from here - https://code.visualstudio.com/download
 
 - Run "Final_Project.py" and wait for 1 second for the alternative screen to load. It will look something like this - 
 
