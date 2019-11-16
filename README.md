@@ -1,9 +1,7 @@
-# NADA
+# NADA (NASA DATA)
 
-NASA DATA 
- ~ By Aarushi Vijay
+This is an user-based application that generates NASA Data of asteroids using pip extension and NASA APIs. This application is coded in Python. This application also has been integrated with Graphic User Interface (Tkinter) to make the app more appealing for the user.
 
-This is an API based application that extracts data of asteroids from NASA and displays user-friendly information about asteroids!
 
 ## HOW TO USE 
 
@@ -27,10 +25,10 @@ This is an API based application that extracts data of asteroids from NASA and d
 
 - To view more information, you can click the "click for more information" button. A second window will pop-up, which looks like this - 
 
+![Screenshot 2019-11-15 at 6 14 18 PM](https://user-images.githubusercontent.com/52317352/68990059-a0e9ba00-081c-11ea-869d-18d8adda5612.png)
+
+Play around, enter different dates and discover more of NASA Data!!!
 
 
-The user can enter dates on their own and wait for the application to work its magic!
-
-The application uses pip extension and NASA APIs. It is coded in Python. This application also has been integrated with Graphic User Interface (Tkinter) to make the app more appealing for the user.
 
 
