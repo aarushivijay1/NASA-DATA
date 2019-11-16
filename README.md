@@ -25,6 +25,9 @@ This is an API based application that extracts data of asteroids from NASA and d
 
 ![Screenshot 2019-11-15 at 6 12 35 PM](https://user-images.githubusercontent.com/52317352/68990042-6f70ee80-081c-11ea-89ed-07be12026182.png)
 
+- To view more information, you can click the "click for more information" button. A second window will pop-up, which looks like this - 
+
+
 
 The user can enter dates on their own and wait for the application to work its magic!
 
