@@ -1,6 +1,6 @@
 # NADA (NASA DATA)
 
-This is an user-based application that generates NASA Data of asteroids using pip extension and NASA APIs. This application is coded in Python. This application also has been integrated with Graphic User Interface (Tkinter) to make the app more appealing for the user.
+This is a user-based application that generates NASA Data of asteroids using pip extension and NASA APIs. This application is coded in Python. This application also has been integrated with Graphic User Interface (Tkinter) to make the app more appealing for the user.
 
 
 ## HOW TO USE 
