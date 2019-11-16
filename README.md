@@ -23,6 +23,8 @@ This is an API based application that extracts data of asteroids from NASA and d
 
 - The ID filter is not required for now. Go ahead and hit submit. You will see something like this on your screen - 
 
+![Screenshot 2019-11-15 at 6 12 35 PM](https://user-images.githubusercontent.com/52317352/68990042-6f70ee80-081c-11ea-89ed-07be12026182.png)
+
 
 The user can enter dates on their own and wait for the application to work its magic!
 
