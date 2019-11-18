@@ -2,6 +2,7 @@
 
 This is a user-based application that generates NASA Data of asteroids using pip extension and NASA APIs. This application is coded in Python. This application also has been integrated with Graphic User Interface (Tkinter) to make the app more appealing for the user.
 
+![nasa](https://user-images.githubusercontent.com/52317352/69034235-ba227000-09ae-11ea-982a-9d6633269f17.png)
 
 ## HOW TO USE 
 
